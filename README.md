@@ -34,6 +34,8 @@ The Shoreline IoT project allows users to:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows, use venv\Scripts\activate
+    # On GitBash Windows, use:
+    source venv/Scripts/activate
     ```
 
 3. **Install dependencies:**
